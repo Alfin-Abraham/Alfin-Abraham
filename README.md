@@ -15,6 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfin-abraham&show_icons=true&theme=dark&locale=en&layout=compact" alt="alfin-abraham" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfin-abraham&show_icons=true&theme=dark&locale=en" alt="alfin-abraham" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfin-abraham&theme=dark" alt="alfin-abraham" /></p>
